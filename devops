@@ -5,4 +5,5 @@ Hi I ma devops file and I ma i  sai repos
 
 There are multiple Java implementations that you can use. OpenJDK is the most popular one at the moment, we will use it in this guide.
 
-Update the Debian apt repositories, install OpenJDK 21, and check the installation using the following commands:
+Update the Debian apt repositories, install OpenJDK 21, and check the installation using the following commands
+DevOps is a collaborative culture and set of practices that bridges software development (Dev) and IT operations (Ops). By leveraging automation and continuous delivery, it eliminates traditional silos to help organizations build, test, and release software faster, more securely, and much more reliably:w:
